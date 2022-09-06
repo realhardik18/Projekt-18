@@ -39,3 +39,5 @@ service.thumbnails().set(
     videoId=response_upload.get('id'),
     media_body=MediaFileUpload('we.png')
 ).execute()
+
+# have to make custom uploader using selenium
