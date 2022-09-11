@@ -1,0 +1,2 @@
+get a selenium script working to upload video
+make a apk app maybe for you to use to upload videos via insta or clip yt videos and upload em
